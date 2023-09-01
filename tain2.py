@@ -1,1 +1,0 @@
-print('Novo script')
